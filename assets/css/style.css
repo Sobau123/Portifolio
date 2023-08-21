@@ -1,0 +1,21 @@
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.borda {
+    border-width: 5px;
+    border-style: solid;
+}
+
+.corborda {
+    border-color: gray;
+}
+
+.esp {
+    padding: 15px;
+}
